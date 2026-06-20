@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{C99B037D-1BD5-423B-AD4B-B5CB89DB763F}",
     "Language": "SFX",
-    "Hash": "{3BE21B36-3477-E880-BFCA-5D08755686C7}",
+    "Hash": "{EF45431D-88A1-9AAF-67FC-684AE9AF6A8A}",
     "ObjectPath": "Play_Foley_FS_Run",
     "ShortName": "Play_Foley_FS_Run",
     "Path": "Event/Play_Foley_FS_Run.bnk",
@@ -52,6 +52,15 @@
       "CachePath": "97/{97A2D8B3-DD4A-9828-2B33-925DF04B3E0A}.wem"
      },
      {
+      "Id": "84778836",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOL_FS_Run_Highheel_Wood_07.wav",
+      "Path": "Media/84778836.wem",
+      "CachePath": "15/{1562E52E-F8CE-23F6-33D2-5232CA92A545}.wem"
+     },
+     {
       "Id": "105588603",
       "Language": "SFX",
       "Streaming": "false",
@@ -70,6 +79,33 @@
       "CachePath": "CD/{CDA47CEF-BD44-E82C-23F8-BB8D412D24F7}.wem"
      },
      {
+      "Id": "129949896",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOL_FS_Run_Highheel_Rock_02.wav",
+      "Path": "Media/129949896.wem",
+      "CachePath": "E5/{E5646B2A-0A5A-0F9A-BCF2-718442112E57}.wem"
+     },
+     {
+      "Id": "143713035",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOL_FS_Run_Highheel_Rock_01.wav",
+      "Path": "Media/143713035.wem",
+      "CachePath": "38/{3809496F-DDF5-FCA6-BB8A-2871C2A0AFF7}.wem"
+     },
+     {
+      "Id": "167993749",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOL_FS_Run_Highheel_Rock_07.wav",
+      "Path": "Media/167993749.wem",
+      "CachePath": "CE/{CE33CB62-E085-E906-73EA-B179A3FB277A}.wem"
+     },
+     {
       "Id": "260667350",
       "Language": "SFX",
       "Streaming": "false",
@@ -77,6 +113,24 @@
       "ShortName": "FOL_FS_Run_Highheel_Grass_03.wav",
       "Path": "Media/260667350.wem",
       "CachePath": "9D/{9DAD8E98-7118-BCE8-10ED-7F08A040442B}.wem"
+     },
+     {
+      "Id": "394999772",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOL_FS_Run_Highheel_Wood_09.wav",
+      "Path": "Media/394999772.wem",
+      "CachePath": "96/{96AA68C7-8DE0-F55D-5646-49F83CF7C73E}.wem"
+     },
+     {
+      "Id": "413943837",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOL_FS_Run_Highheel_Wood_04.wav",
+      "Path": "Media/413943837.wem",
+      "CachePath": "3B/{3B387DCE-C95F-75D5-F5D8-07A552E55531}.wem"
      },
      {
       "Id": "418054671",
@@ -88,6 +142,24 @@
       "CachePath": "14/{14927271-62FB-9E2B-295F-7FE41679A785}.wem"
      },
      {
+      "Id": "426348495",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOL_FS_Run_Highheel_Rock_06.wav",
+      "Path": "Media/426348495.wem",
+      "CachePath": "16/{16EA908A-DBA2-6C32-7FAF-39FD97B858CD}.wem"
+     },
+     {
+      "Id": "451173446",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOL_FS_Run_Highheel_Wood_08.wav",
+      "Path": "Media/451173446.wem",
+      "CachePath": "C9/{C93A2869-63DA-04A1-3804-45C354C0CF4A}.wem"
+     },
+     {
       "Id": "509851453",
       "Language": "SFX",
       "Streaming": "false",
@@ -95,6 +167,24 @@
       "ShortName": "FOL_FS_Run_Highheel_Grass_07.wav",
       "Path": "Media/509851453.wem",
       "CachePath": "28/{28C92315-1D77-AF75-B6A5-F5010CCBF7BE}.wem"
+     },
+     {
+      "Id": "555544366",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOL_FS_Run_Highheel_Rock_08.wav",
+      "Path": "Media/555544366.wem",
+      "CachePath": "E3/{E37C2686-BD9D-B4BC-F8B1-FECF04BC218B}.wem"
+     },
+     {
+      "Id": "555885856",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOL_FS_Run_Highheel_Wood_06.wav",
+      "Path": "Media/555885856.wem",
+      "CachePath": "D0/{D08462B8-3520-24F3-2736-ED6818F598C6}.wem"
      },
      {
       "Id": "574134008",
@@ -113,6 +203,33 @@
       "ShortName": "FOL_FS_Run_Highheel_Dirt_05.wav",
       "Path": "Media/576282336.wem",
       "CachePath": "45/{45410C04-EAE7-83F6-126B-83FD8D15DB6E}.wem"
+     },
+     {
+      "Id": "637514400",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOL_FS_Run_Highheel_Rock_03.wav",
+      "Path": "Media/637514400.wem",
+      "CachePath": "37/{379478A3-4E24-2DA2-3B66-7E0A32AC1384}.wem"
+     },
+     {
+      "Id": "673848863",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOL_FS_Run_Highheel_Wood_03.wav",
+      "Path": "Media/673848863.wem",
+      "CachePath": "B6/{B604A95E-55D6-AA40-9A23-F268BFEA5078}.wem"
+     },
+     {
+      "Id": "700025112",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOL_FS_Run_Highheel_Rock_05.wav",
+      "Path": "Media/700025112.wem",
+      "CachePath": "15/{151FEB01-4FFD-3DC4-CB25-2C8B0FD39BA6}.wem"
      },
      {
       "Id": "702672138",
@@ -142,6 +259,24 @@
       "CachePath": "01/{01BED15F-3135-9747-45C2-46B62B40544B}.wem"
      },
      {
+      "Id": "738039663",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOL_FS_Run_Highheel_Rock_09.wav",
+      "Path": "Media/738039663.wem",
+      "CachePath": "44/{44219BF9-E5EF-A606-7D6A-5EDCA8A7F4BA}.wem"
+     },
+     {
+      "Id": "738171109",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOL_FS_Run_Highheel_Wood_01.wav",
+      "Path": "Media/738171109.wem",
+      "CachePath": "33/{336EC0BF-4E6A-DC14-72F8-45B70A2D929E}.wem"
+     },
+     {
       "Id": "869963709",
       "Language": "SFX",
       "Streaming": "false",
@@ -149,6 +284,33 @@
       "ShortName": "FOL_FS_Run_Highheel_Grass_08.wav",
       "Path": "Media/869963709.wem",
       "CachePath": "6E/{6EC92274-8C17-1538-34B4-E3512FBFD00A}.wem"
+     },
+     {
+      "Id": "922135322",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOL_FS_Run_Highheel_Wood_05.wav",
+      "Path": "Media/922135322.wem",
+      "CachePath": "7C/{7C9EABA5-2C2D-2010-D73E-89E648F4DEE4}.wem"
+     },
+     {
+      "Id": "933322137",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOL_FS_Run_Highheel_Rock_04.wav",
+      "Path": "Media/933322137.wem",
+      "CachePath": "35/{35143599-24F1-340A-9E59-829136F3DFF8}.wem"
+     },
+     {
+      "Id": "962041908",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "FOL_FS_Run_Highheel_Wood_02.wav",
+      "Path": "Media/962041908.wem",
+      "CachePath": "B7/{B71E4BDF-2EB7-910F-DA21-1FE03C545DE8}.wem"
      },
      {
       "Id": "1002925761",
@@ -179,6 +341,80 @@
          "Default": "true"
         },
         "Children": [
+         {
+          "SwitchValue": {
+           "GroupType": "Switch",
+           "GroupId": "3865314626",
+           "Id": "2144363834",
+           "GUID": "{BE53A45E-AA04-4F0A-815B-7F490A99590A}"
+          },
+          "MediaRefs": [
+           {
+            "Id": "129949896"
+           },
+           {
+            "Id": "143713035"
+           },
+           {
+            "Id": "167993749"
+           },
+           {
+            "Id": "426348495"
+           },
+           {
+            "Id": "555544366"
+           },
+           {
+            "Id": "637514400"
+           },
+           {
+            "Id": "700025112"
+           },
+           {
+            "Id": "738039663"
+           },
+           {
+            "Id": "933322137"
+           }
+          ]
+         },
+         {
+          "SwitchValue": {
+           "GroupType": "Switch",
+           "GroupId": "3865314626",
+           "Id": "2058049674",
+           "GUID": "{982AACBB-B8F2-4940-8301-50E243C45849}"
+          },
+          "MediaRefs": [
+           {
+            "Id": "84778836"
+           },
+           {
+            "Id": "394999772"
+           },
+           {
+            "Id": "413943837"
+           },
+           {
+            "Id": "451173446"
+           },
+           {
+            "Id": "555885856"
+           },
+           {
+            "Id": "673848863"
+           },
+           {
+            "Id": "738171109"
+           },
+           {
+            "Id": "922135322"
+           },
+           {
+            "Id": "962041908"
+           }
+          ]
+         },
          {
           "SwitchValue": {
            "GroupType": "Switch",
@@ -309,6 +545,6 @@
     ]
    }
   ],
-  "FileHash": "{17EEE17B-85FB-EC74-C98D-A94C59760797}"
+  "FileHash": "{31BA03F7-8922-7E31-D22D-4628C9DAD1CC}"
  }
 }
