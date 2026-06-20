@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+*.sln
+*.vcxproj*
+ 
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+ 
+# Wwise 生成文件（通常只保留工程文件，不保留缓存）
+*.cache
+*.prof

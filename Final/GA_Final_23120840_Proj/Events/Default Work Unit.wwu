@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{C51734B9-1476-40D2-ACC7-BE626E4DD4E9}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{C51734B9-1476-40D2-ACC7-BE626E4DD4E9}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_AMB_Forest_2D_Insect_Group_Night" ID="{C27C3071-EAFC-4479-8FC3-5D6F40201A64}">
+					<ChildrenList>
+						<Action Name="" ID="{1308EDEA-4176-41F5-A071-B1A1B7400E4A}" ShortID="483354144">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="AMB_Forest_2D_Insect_Group_Night" ID="{1849F594-8F00-4721-A11E-426CE81B90E2}" WorkUnitID="{B5A8A22C-0971-4516-8303-7465A48D6909}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

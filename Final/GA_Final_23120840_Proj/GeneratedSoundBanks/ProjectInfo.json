@@ -1,0 +1,29 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "GA_Final_23120840_Proj",
+   "GUID": "{F49A6E4C-AD2C-48B3-8D67-243E40E5290A}",
+   "Generator": "2024.1.8.8898"
+  },
+  "CacheRoot": "../.cache",
+  "Platforms": [
+   {
+    "Name": "Windows",
+    "GUID": "{C512B597-E823-4240-9954-7C54642AE107}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{FB8C157D-91AA-43F1-8A7E-7D9124B9A388}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{A6BA6043-413E-4FC2-55D1-A334A846E44C}"
+ }
+}

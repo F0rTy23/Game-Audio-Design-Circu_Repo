@@ -1,0 +1,48 @@
+{
+ "SoundBanksInfo": {
+  "Platform": "Windows",
+  "BasePlatform": "Windows",
+  "SchemaVersion": "16",
+  "SoundBankVersion": "154",
+  "SoundBanks": [
+   {
+    "Id": "1049859709",
+    "Type": "Event",
+    "GUID": "{C27C3071-EAFC-4479-8FC3-5D6F40201A64}",
+    "Language": "SFX",
+    "Hash": "{24EB6A3E-8796-36C9-BA6F-4422E8893CF0}",
+    "ObjectPath": "Play_AMB_Forest_2D_Insect_Group_Night",
+    "ShortName": "Play_AMB_Forest_2D_Insect_Group_Night",
+    "Path": "Event/Play_AMB_Forest_2D_Insect_Group_Night.bnk",
+    "Media": [
+     {
+      "Id": "533886254",
+      "Language": "SFX",
+      "Streaming": "false",
+      "Location": "Loose",
+      "ShortName": "AMB_Forest_2D_Insect_Group_Night.wav",
+      "Path": "Media/533886254.wem",
+      "CachePath": "F7/{F7625EB4-EAA6-4B3F-B755-17BC9110FF7C}.wem"
+     }
+    ],
+    "Events": [
+     {
+      "Id": "1049859709",
+      "Name": "Play_AMB_Forest_2D_Insect_Group_Night",
+      "ObjectPath": "\\Events\\Default Work Unit\\Play_AMB_Forest_2D_Insect_Group_Night",
+      "GUID": "{C27C3071-EAFC-4479-8FC3-5D6F40201A64}",
+      "DurationType": "OneShot",
+      "DurationMin": "30",
+      "DurationMax": "30",
+      "MediaRefs": [
+       {
+        "Id": "533886254"
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "FileHash": "{ABEE5EC8-D8C9-C19C-735E-A49F986F386E}"
+ }
+}
