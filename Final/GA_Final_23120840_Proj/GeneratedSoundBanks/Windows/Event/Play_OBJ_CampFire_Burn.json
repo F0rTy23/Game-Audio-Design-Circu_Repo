@@ -10,7 +10,7 @@
     "Type": "Event",
     "GUID": "{3EE97701-ECCE-47E1-994C-67A26DF7E41C}",
     "Language": "SFX",
-    "Hash": "{53BC16A3-AEB7-FEED-8B81-76ABC9FEA0BC}",
+    "Hash": "{77D5CE7B-A370-A810-7607-F43C9F2F2766}",
     "ObjectPath": "Play_OBJ_CampFire_Burn",
     "ShortName": "Play_OBJ_CampFire_Burn",
     "Path": "Event/Play_OBJ_CampFire_Burn.bnk",
@@ -157,6 +157,7 @@
       "Name": "Play_OBJ_CampFire_Burn",
       "ObjectPath": "\\Events\\Default Work Unit\\Play_OBJ_CampFire_Burn",
       "GUID": "{3EE97701-ECCE-47E1-994C-67A26DF7E41C}",
+      "MaxAttenuation": "1000",
       "DurationType": "Infinite",
       "MediaRefs": [
        {
@@ -209,6 +210,6 @@
     ]
    }
   ],
-  "FileHash": "{B5D69432-A9C9-1A86-1255-53A37A0ABAA4}"
+  "FileHash": "{F2321BCC-D4F1-AF80-8B1B-AD29278F4DC8}"
  }
 }

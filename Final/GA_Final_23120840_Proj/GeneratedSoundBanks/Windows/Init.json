@@ -10,11 +10,21 @@
     "Type": "User",
     "GUID": "{701ECBBD-9C7B-4030-8CDB-749EE5D1C7B9}",
     "Language": "SFX",
-    "Hash": "{E8C73C05-9AC5-A17E-EA11-491BBCB2A45E}",
+    "Hash": "{3F583719-BF66-98D3-4F19-FC2496FF8DCC}",
     "ObjectPath": "Init",
     "ShortName": "Init",
     "Path": "Init.bnk",
     "Plugins": {
+     "ShareSets": [
+      {
+       "Id": "3164629247",
+       "Name": "Holy",
+       "ObjectPath": "\\Effects\\Factory Effects\\RoomVerb\\Cathedrals\\Holy",
+       "GUID": "{CC7B8638-C670-4AD5-B3FB-331EA81037F6}",
+       "LibName": "Wwise RoomVerb",
+       "LibId": "7733251"
+      }
+     ],
      "AudioDevices": [
       {
        "Id": "2317455096",
@@ -36,14 +46,89 @@
     },
     "Busses": [
      {
+      "Id": "348963605",
+      "Name": "Reverb",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Reverb",
+      "GUID": "{8892D5FF-883A-4C26-B886-41F7B7A118DB}"
+     },
+     {
       "Id": "3803692087",
       "Name": "Master Audio Bus",
       "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus",
       "GUID": "{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"
      }
+    ],
+    "AuxBusses": [
+     {
+      "Id": "2793222576",
+      "Name": "Reverb_Inner",
+      "ObjectPath": "\\Master-Mixer Hierarchy\\Default Work Unit\\Master Audio Bus\\Reverb\\Reverb_Inner",
+      "GUID": "{6AD92A61-69D1-448B-96FA-F52B417B2640}",
+      "PluginRefs": {
+       "ShareSets": [
+        {
+         "Id": "3164629247"
+        }
+       ]
+      }
+     }
+    ],
+    "SwitchGroups": [
+     {
+      "Id": "3705103691",
+      "Name": "Shoe_Type",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Shoe_Type",
+      "GUID": "{B37A6FFD-0216-4647-AB4D-5B2F6636CC0F}",
+      "Switches": [
+       {
+        "Id": "3129509287",
+        "Name": "HIghheel",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Shoe_Type\\HIghheel",
+        "GUID": "{78077661-A3FC-40FA-BF60-1470629569D7}"
+       },
+       {
+        "Id": "4182765245",
+        "Name": "Snniker",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Shoe_Type\\Snniker",
+        "GUID": "{815836C5-2563-4792-B5E1-5A19D8B0FB56}"
+       }
+      ]
+     },
+     {
+      "Id": "3865314626",
+      "Name": "Material",
+      "ObjectPath": "\\Switches\\Default Work Unit\\Material",
+      "GUID": "{84F42690-2FCC-492D-95D6-6CCAC3FD1450}",
+      "Switches": [
+       {
+        "Id": "2058049674",
+        "Name": "Wood",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material\\Wood",
+        "GUID": "{982AACBB-B8F2-4940-8301-50E243C45849}"
+       },
+       {
+        "Id": "2144363834",
+        "Name": "Rock",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material\\Rock",
+        "GUID": "{BE53A45E-AA04-4F0A-815B-7F490A99590A}"
+       },
+       {
+        "Id": "2195636714",
+        "Name": "DIrt",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material\\DIrt",
+        "GUID": "{766AFECB-23B3-4080-9F16-4957977A37E1}"
+       },
+       {
+        "Id": "4248645337",
+        "Name": "Grass",
+        "ObjectPath": "\\Switches\\Default Work Unit\\Material\\Grass",
+        "GUID": "{CE0807CD-1685-4BC4-8DA3-EF593F0D2459}"
+       }
+      ]
+     }
     ]
    }
   ],
-  "FileHash": "{95222294-3906-79B8-ABBD-697236DEB827}"
+  "FileHash": "{562F526A-5601-42B3-3F73-B7638C5323FB}"
  }
 }
