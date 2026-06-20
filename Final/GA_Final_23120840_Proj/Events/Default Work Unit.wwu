@@ -8,7 +8,18 @@
 						<Action Name="" ID="{1308EDEA-4176-41F5-A071-B1A1B7400E4A}" ShortID="483354144">
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="AMB_Forest_2D_Insect_Group_Night" ID="{1849F594-8F00-4721-A11E-426CE81B90E2}" WorkUnitID="{B5A8A22C-0971-4516-8303-7465A48D6909}"/>
+									<ObjectRef Name="AMB_Forest_2D_Insect_Group_Night" ID="{1849F594-8F00-4721-A11E-426CE81B90E2}" WorkUnitID="{BCD53375-1D09-46D0-9995-939963CFB7BE}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_OBJ_CampFire_Burn" ID="{3EE97701-ECCE-47E1-994C-67A26DF7E41C}">
+					<ChildrenList>
+						<Action Name="" ID="{00BFF5DC-E893-469A-8626-3CC33B99E7D6}" ShortID="165747947">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="OBJ_CampFire_Burn" ID="{831684A0-8B7E-4BE2-B3B5-64DFDA677C1A}" WorkUnitID="{62EC2ED9-3DC3-448F-824B-074C2DB8EDD9}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
